@@ -17,6 +17,8 @@ public_html/hot
 
 storage/*.key
 .env
+.gitignore
+/.idea
 Homestead.yaml
 Homestead.json
 /.vagrant
